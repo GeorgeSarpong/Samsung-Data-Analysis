@@ -1,2 +1,2 @@
-# Samsung-Data-Analysis
-Analysis of Samsung accelerometer data to prepare tidy dataset.
+# Getting-and-Cleaning-Data-
+Week 4 Assignemnt 
